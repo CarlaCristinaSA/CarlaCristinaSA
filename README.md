@@ -1,4 +1,4 @@
-<div style="text-aling: center;">
+<div style="text-align: center;">
 
 #  🦊 About Me:
 🍒 Hello, I am a student in the second period of the Software Engineering <br/>
@@ -15,9 +15,12 @@
 <br/> 
 
 #  🦊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CarlaCristinaSA&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=CarlaCristinaSA&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CarlaCristinaSA&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaCristinaSA&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaCristinaSA&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🍒 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CarlaCristinaSA&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 <br/>
 
@@ -31,5 +34,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CarlaCristinaSA&icon=7&color=10)](https://visitcount.itsvg.in)
 
 </div>
