@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 
 #  🦊 About Me:
-🍒 Hello, I am a student in the second period of the Software Engineering <br/>
+🍒 Hello, I am a student in the fourth period of the Software Engineering <br/>
 🍒 Course at the Federal University of Ceará
 <br/>
 
