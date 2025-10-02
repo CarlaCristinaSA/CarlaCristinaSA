@@ -51,18 +51,13 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React"/>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GameMakerStudio.svg" alt="Game Maker Studio"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="Photoshop"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma"/>
 </div>
+
 
 <br>
 
