@@ -71,7 +71,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-ffc0cb?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:carlacristina130523@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/carlacristina.sa)
   [![Discord](https://img.shields.io/badge/Discord-ffc0cb?style=for-the-badge&logo=Discord&logoColor=fff)](http://discord.com/users/C.#6391)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/carlacristina-engsoft/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/carlacristina-engsoft/)
   
 </div>
 
