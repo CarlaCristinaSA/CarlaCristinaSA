@@ -25,7 +25,7 @@
 
 <div align="center">
 
-  <!-- Agora o botão "meow ♡" é clicável -->
+  <!-- Botão "meow ♡" clicável -->
   [![Meow](https://img.shields.io/badge/meow_♡-ffc0cb?style=for-the-badge&logoColor=fff)](https://github.com/CarlaCristinaSA)
 
 </div>
@@ -45,7 +45,7 @@
   <div align="center">
 
   <!-- Stats (2 em cima, 1 embaixo) -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlaCristinaSA&show_icons=true&title_color=ff69b4&icon_color=e75480&text_color=ffc0cb&bg_color=00000000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlaCristinaSA&show_icons=true&icon_color=ff69b4&title_color=ff69b4&text_color=ffc0cb&bg_color=00000000"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaCristinaSA&layout=compact&title_color=ff69b4&text_color=ffc0cb&bg_color=00000000"/>
   
   <br><br>
@@ -72,7 +72,8 @@
 
   <br>
 
-<div align="center">
+  <!-- Links sociais alinhados lado a lado -->
+  <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-ffc0cb?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:carlacristina130523@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/carlacristina.sa)
