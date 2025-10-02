@@ -45,7 +45,7 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=ff69b4&text_color=ffc0cb&icon_color=e75480) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=ff69b4&text_color=ffc0cb&icon_color=e75480) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=ff69b4&text_color=ffc0cb&icon_color=e75480) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=ff69b4&text_color=ffc0cb) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlaCristinaSA&theme=transparent&ring=ff69b4&fire=e75480&currStreakLabel=ffc0cb&sideNums=ff69b4&sideLabels=ffc0cb&dates=e75480&stroke=ffc0cb)](https://git.io/streak-stats) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=ff69b4&text_color=ffc0cb&icon_color=e75480) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlaCristinaSA&theme=transparent&ring=ff69b4&fire=e75480&currStreakLabel=ffc0cb&sideNums=ff69b4&sideLabels=ffc0cb&dates=e75480&stroke=ffc0cb)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 
