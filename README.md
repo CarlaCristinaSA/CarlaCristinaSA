@@ -12,12 +12,12 @@
 </div>
 
 <div align="center">
-  <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FCarlaCristinaSA&s=21&c=ffc0cb&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+  <p>
+    <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FCarlaCristinaSA&s=21&c=ffc0cb&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
   </p> 
 </div>
       
-<br><br>
+<br>
       
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200" alt="cute cat gif">
@@ -27,60 +27,53 @@
   <img src="https://img.shields.io/badge/meow_♡-ffc0cb?style=for-the-badge&logoColor=fff" />
 </div>
 
-<div align="center" width="100%">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffc0cb&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Engineering;Welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <details align="center">
-    <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-    </summary>
-    <br>
-<div align="center">
+  <summary>
+    <samp><b>More Info</b></samp>
+  </summary>
+  <br>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=ff69b4&text_color=ffc0cb&icon_color=e75480) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=ff69b4&text_color=ffc0cb&icon_color=e75480) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=ff69b4&text_color=ffc0cb&icon_color=e75480) |
-| :-: | :-: | :-: |
+  <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=ff69b4&text_color=ffc0cb&icon_color=e75480) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlaCristinaSA&theme=transparent&ring=ff69b4&fire=e75480&currStreakLabel=ffc0cb&sideNums=ff69b4&sideLabels=ffc0cb&dates=e75480&stroke=ffc0cb)](https://git.io/streak-stats) |
-| :-: | :-: |
+  | ![Stats](https://github-readme-stats.vercel.app/api?username=CarlaCristinaSA&show_icons=true&title_color=ff69b4&icon_color=e75480&text_color=ffc0cb&bg_color=00000000) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaCristinaSA&layout=compact&title_color=ff69b4&text_color=ffc0cb&bg_color=00000000) | [![Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlaCristinaSA&theme=transparent&ring=ff69b4&fire=e75480&currStreakLabel=ffc0cb&sideNums=ff69b4&sideLabels=ffc0cb&dates=e75480&stroke=ffc0cb)](https://git.io/streak-stats) |
+  | :-: | :-: | :-: |
 
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlaCristinaSA&bg_color=00000000&color=ffc0cb&line=ff69b4&point=e75480&area=true&area_color=ffc0cb&hide_border=true" />
 
+  </div>
 
-</div>
+  <br>
 
-<div align="center" style="display: inline_block"><br>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" alt="Notion"/>
-</div>
+  <div align="center">
+    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C"/>
+    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java"/>
+    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js"/>
+    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React"/>
+    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript"/>
+    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"/>
+    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" alt="Notion"/>
+  </div>
 
-<br>
+  <br>
 
-##
-
-<br>
-
-<div align="center">
+  <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-ffc0cb?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:carlacristina130523@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/carlacristina.sa)
   [![Discord](https://img.shields.io/badge/Discord-ffc0cb?style=for-the-badge&logo=Discord&logoColor=fff)](http://discord.com/users/C.#6391)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/carlacristina-engsoft/)
-  
-</div>
 
-##
+  </div>
 
 </details>
 
-<br><br>
+<br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=100&section=footer"/>
