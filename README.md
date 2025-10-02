@@ -42,15 +42,11 @@
     <br>
 <div align="center">
 
-<!-- 🎨 Estatísticas em rosa escuro -->
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=e75480&text_color=e75480&icon_color=e75480) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=e75480&text_color=e75480) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=e75480&text_color=e75480&utcOffset=8) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=ffc0cb&text_color=ffc0cb&icon_color=ffc0cb) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=ffc0cb&text_color=ffc0cb) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=ffc0cb&text_color=ffc0cb) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=e75480&text_color=e75480) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlaCristinaSA&theme=transparent&ring=e75480&fire=e75480&currStreakLabel=e75480&sideNums=e75480&sideLabels=e75480&dates=e75480&stroke=e75480)](https://git.io/streak-stats) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlaCristinaSA&theme=transparent&background=00000000&title_color=ffc0cb&text_color=ffc0cb) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlaCristinaSA&theme=transparent&ring=ffc0cb&fire=ffc0cb&currStreakLabel=ffc0cb&sideNums=ffc0cb&sideLabels=ffc0cb&dates=ffc0cb&stroke=ffc0cb)](https://git.io/streak-stats) |
 | :-: | :-: |
-
-<!-- 💕 GitHub Stats com rosa -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlaCristinaSA&show_icons=true&bg_color=00000000&title_color=e75480&text_color=e75480&icon_color=e75480&border_color=e75480)
 
 </div>
 
@@ -78,7 +74,6 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/carlacristina-engsoft/)
   
 </div>
-
 
 ##
 
