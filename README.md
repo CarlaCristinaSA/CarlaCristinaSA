@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffc0cb"/>
 
 <div align="center">
   <samp>
@@ -13,7 +13,7 @@
 
 <div align="center">
   <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FCarlaCristinaSA&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FCarlaCristinaSA&s=21&c=ffc0cb&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
   </p> 
 </div>
       
@@ -24,11 +24,11 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/meow_♡-black" />
+  <img src="https://img.shields.io/badge/meow_♡-ffc0cb?style=for-the-badge&logoColor=fff" />
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Engineering;Welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffc0cb&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Engineering;Welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -42,10 +42,10 @@
     <br>
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlaCristinaSA&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlaCristinaSA&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlaCristinaSA&theme=nord_dark&utcOffset=8) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlaCristinaSA&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlaCristinaSA&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlaCristinaSA&theme=github&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlaCristinaSA&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlaCristinaSA&theme=nord)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlaCristinaSA&theme=github) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlaCristinaSA&theme=transparent&ring=ffc0cb&fire=ffc0cb&currStreakLabel=ffc0cb)](https://git.io/streak-stats) |
 | :-: | :-: |
   
 </div>
@@ -60,8 +60,6 @@
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" alt="Notion"/>
 </div>
 
-
-
 <br>
 
 ##
@@ -70,10 +68,10 @@
 
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:carlacristina130523@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/carlacristina.sa)
-  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](http://discord.com/users/C.#6391)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/carlacristina-engsoft/)
+  [![Gmail](https://img.shields.io/badge/Gmail-ffc0cb?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:carlacristina130523@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/carlacristina.sa)
+  [![Discord](https://img.shields.io/badge/Discord-ffc0cb?style=for-the-badge&logo=Discord&logoColor=fff)](http://discord.com/users/C.#6391)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/carlacristina-engsoft/)
   
 </div>
 
@@ -94,4 +92,4 @@
 
 <br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=100&section=footer"/>
