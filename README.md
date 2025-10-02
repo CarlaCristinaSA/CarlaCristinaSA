@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
+      ソフトウェアエンジニア
       <br>
       Olá, meu nome é Carla Cristina!
       <br>
