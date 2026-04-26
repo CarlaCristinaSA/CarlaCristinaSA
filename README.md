@@ -23,7 +23,6 @@
 
 <div align="center">
 
-  <!-- Botão "meow ♡" clicável -->
   [![Meow](https://img.shields.io/badge/meow_♡-ffc0cb?style=for-the-badge&logoColor=fff)](https://github.com/CarlaCristinaSA)
 
 </div>
@@ -42,12 +41,10 @@
 
   <div align="center">
 
-  <!-- Stats (2 em cima, 1 embaixo) -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlaCristinaSA&show_icons=true&icon_color=ff69b4&title_color=ff69b4&text_color=ffc0cb&bg_color=00000000"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaCristinaSA&layout=compact&title_color=ff69b4&text_color=ffc0cb&bg_color=00000000"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=CarlaCristinaSA&theme=transparent&ring=ff69b4&fire=e75480&currStreakLabel=ffc0cb&sideNums=ff69b4&sideLabels=ffc0cb&dates=e75480&stroke=ffc0cb"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlaCristinaSA&show_icons=true&icon_color=ff69b4&title_color=ff69b4&text_color=ffc0cb&bg_color=00000000&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaCristinaSA&layout=compact&title_color=ff69b4&text_color=ffc0cb&bg_color=00000000&hide_border=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=CarlaCristinaSA&theme=transparent&ring=ff69b4&fire=e75480&currStreakLabel=ffc0cb&sideNums=ff69b4&sideLabels=ffc0cb&dates=e75480&stroke=ffc0cb&hide_border=true"/>
 
-  <!-- Activity Graph -->
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlaCristinaSA&bg_color=00000000&color=ffc0cb&line=ff69b4&point=e75480&area=true&area_color=ffc0cb&hide_border=true" />
 
@@ -74,7 +71,6 @@
 
   <br>
 
-  <!-- Links sociais alinhados lado a lado -->
   <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-ffc0cb?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:carlacristina130523@gmail.com)
