@@ -71,14 +71,14 @@
 
   <br>
 
-  <div align="center">
+<div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-ffc0cb?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:carlacristina130523@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/carlacristina.sa)
-  [![Discord](https://img.shields.io/badge/Discord-ffc0cb?style=for-the-badge&logo=Discord&logoColor=fff)](http://discord.com/users/C.#6391)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/carlacristina-engsoft/)
+  [![Gmail](https://img.shields.io/badge/Gmail-ffc0cb?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:carlacristina.dev@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/carlacristina.sa)
+  [![Discord](https://img.shields.io/badge/Discord-ffc0cb?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.com/users/6391)
+  [![Linkedin](https://img.shields.io/badge/Linkedin-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=fff&t=1)](https://www.linkedin.com/in/carlacristina-engsoft/)
 
-  </div>
+</div>
 
 </details>
 
