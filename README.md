@@ -11,11 +11,9 @@
   </samp>
 </div>
 
-<div align="center">
-  <p>
-    <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FCarlaCristinaSA&s=21&c=ffc0cb&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
-  </p> 
-</div>
+<p align="center">
+  <img src="https://visit-counter.vercel.app/counter.png?page=CarlaCristinaSA" alt="Visitor Counter" />
+</p>
       
 <br>
       
