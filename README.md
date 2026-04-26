@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=CarlaCristinaSA" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=CarlaCristinaSA&color=ffc0cb&style=flat-square&label=VISITS" alt="CarlaCristinaSA" />
 </p>
       
 <br>
