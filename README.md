@@ -45,9 +45,6 @@
   <!-- Stats (2 em cima, 1 embaixo) -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlaCristinaSA&show_icons=true&icon_color=ff69b4&title_color=ff69b4&text_color=ffc0cb&bg_color=00000000"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaCristinaSA&layout=compact&title_color=ff69b4&text_color=ffc0cb&bg_color=00000000"/>
-  
-  <br><br>
-  
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=CarlaCristinaSA&theme=transparent&ring=ff69b4&fire=e75480&currStreakLabel=ffc0cb&sideNums=ff69b4&sideLabels=ffc0cb&dates=e75480&stroke=ffc0cb"/>
 
   <!-- Activity Graph -->
