@@ -58,15 +58,22 @@
 
   <br>
 
-  <div align="center">
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C"/>
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java"/>
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js"/>
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React"/>
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript"/>
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"/>
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" alt="Notion"/>
-  </div>
+<div align="center">
+  <img height="50" src="https://skillicons.dev/icons?i=c&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=java&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=go&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=js&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=ts&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=react&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=nodejs&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=html&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=css&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=postgres&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=androidstudio&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=git&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=github&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=notion&theme=light" />
+</div>
 
   <br>
 
